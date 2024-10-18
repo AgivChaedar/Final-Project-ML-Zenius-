@@ -4,10 +4,10 @@
 This project aims to predict the loan eligibility of applicants for Home Credit based on a variety of customer data. Using machine learning models, the goal is to identify high-risk borrowers and reduce the likelihood of default. The project uses a structured pipeline for data preprocessing, feature engineering, and model evaluation, applying several algorithms to achieve the best performance in predicting loan eligibility.
 
 ## Key Features
-### Data Preprocessing: Handling missing values, outliers, and categorical variables, ensuring a clean dataset for modeling.
-### Feature Engineering: Creating new features such as CREDIT_INCOME_RATIO and EXT_SOURCE_MEAN to improve model accuracy.
-### Modeling: Applying machine learning models such as Random Forest, K-Nearest Neighbors (KNN), and Support Vector Machine (SVM) to predict loan eligibility.
-### Performance Evaluation: Using accuracy, AUC, and other metrics to evaluate model performance, with Random Forest yielding the best results.
+Data Preprocessing: Handling missing values, outliers, and categorical variables, ensuring a clean dataset for modeling.
+Feature Engineering: Creating new features such as CREDIT_INCOME_RATIO and EXT_SOURCE_MEAN to improve model accuracy.
+Modeling: Applying machine learning models such as Random Forest, K-Nearest Neighbors (KNN), and Support Vector Machine (SVM) to predict loan eligibility.
+Performance Evaluation: Using accuracy, AUC, and other metrics to evaluate model performance, with Random Forest yielding the best results.
 
 ## Dataset
 The dataset was sourced from the Home Credit Default Risk competition on Kaggle and includes over 300,000 data points with 217 features. Key data includes:
