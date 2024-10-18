@@ -5,8 +5,11 @@ This project aims to predict the loan eligibility of applicants for Home Credit 
 
 ## Key Features
 Data Preprocessing: Handling missing values, outliers, and categorical variables, ensuring a clean dataset for modeling.
+
 Feature Engineering: Creating new features such as CREDIT_INCOME_RATIO and EXT_SOURCE_MEAN to improve model accuracy.
+
 Modeling: Applying machine learning models such as Random Forest, K-Nearest Neighbors (KNN), and Support Vector Machine (SVM) to predict loan eligibility.
+
 Performance Evaluation: Using accuracy, AUC, and other metrics to evaluate model performance, with Random Forest yielding the best results.
 
 ## Dataset
